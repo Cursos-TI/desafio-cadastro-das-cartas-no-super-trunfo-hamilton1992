@@ -2,6 +2,8 @@
 
 int main(){
     printf("desafio CadastroCartasSuperTrunfos!\n");
+    printf("novo comit\n");
+    
 
 
 }
